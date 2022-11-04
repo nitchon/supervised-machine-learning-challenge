@@ -6,7 +6,7 @@ Learning is the foundation of humanity. The ability to problem solve and learn f
 
 While there are many approaches to machine learning, this challenge focuses on supervised learning. Supervised learning uses labeled datasets to train algoirthms to classify data or predict outcomes accurately, such as whether a loan will or will not be approved. Using the scikit-learn library and lending data, this challenge builds two models: logisitc regression and random forest classifier to predict loan approvals.
 
-In this repository, there is a Resources folder containg the lending data in CSV format and a Jupyter notebook entitled Credit Risk Evauluator that contains script of data prepocessing and model building and scoring.
+In this repository, there is a Resources folder containg the lending data in CSV format and a Jupyter notebook entitled Credit Risk Evauluator that contains script of data prepocessing and model building and scoring. There is also Supervised Machine Learning Challenge folder containing two child folders with Jupyter notebooks that correspond to the two model used: LogisticRegression and RandomForestClassifier
 
 Below is a summary of the steps to achieve the final models:
 
